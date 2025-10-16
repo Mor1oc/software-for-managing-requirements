@@ -49,8 +49,6 @@ Frontend: https://github.com/Mor1oc/frontend-managing-requirements
 
 ### Схема данных
 
-Схема базы данных
-
 <img width="2504" height="1172" alt="Untitled" src="https://github.com/user-attachments/assets/5f7092d0-39b7-43ed-93d8-9e11cdb59cf3" />
 
 ---
