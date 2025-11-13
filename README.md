@@ -51,6 +51,29 @@ Frontend: https://github.com/Mor1oc/frontend-managing-requirements
 
 <img width="2504" height="1172" alt="Untitled" src="https://github.com/user-attachments/assets/5f7092d0-39b7-43ed-93d8-9e11cdb59cf3" />
 
+### UML-диаграммы
+
+Диаграмма вариантов использования
+
+![Диаграма вариантов использования](https://github.com/user-attachments/assets/30ebb07e-630a-4085-ace2-9adbabaf00cf)
+
+Диаграмма состояний
+
+![Диаграмма состояний](https://github.com/user-attachments/assets/0ffcc889-f61d-4984-bfaa-ff717a263582)
+
+Диаграмма деятельности 
+
+![Диаграмма деятельности](https://github.com/user-attachments/assets/0a0ce986-0170-466a-8214-d769744928da)
+
+Диаграмма пакетов
+
+![Диаграмма пакетов](https://github.com/user-attachments/assets/8f581194-e443-408e-91d2-ac4f394d059b)
+
+Диаграмма размещения
+
+![Диаграмма размещения](https://github.com/user-attachments/assets/d05e7f78-584f-4d48-8c84-9859fa692754)
+
+
 ---
 
 ## **Функциональные возможности**
