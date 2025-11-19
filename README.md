@@ -38,9 +38,9 @@ Frontend: https://github.com/Mor1oc/frontend-managing-requirements
 Иллюстрация и описание архитектура ПС
 
 **Контейнерный уровень**
-![С4 контейнерный уровень](https://github.com/user-attachments/assets/b917ab62-c5d6-4c0b-b3e9-81bcf458d2e6)
+![С4 контейнерный уровень исправленая](https://github.com/user-attachments/assets/c79c9b68-df9c-43e5-8aec-3fcf98afeac5)
 
-На диаграмме изображено общее представление программного средства, пользователи и хранение данных.
+На диаграмме изображено общее представление о программном средстве.
 
 **Компонентный уровень**
 ![С4 компонентный уровень](https://github.com/user-attachments/assets/5170ad6e-9a8a-4dbf-8f47-44cda07e088c)
